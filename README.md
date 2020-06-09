@@ -25,7 +25,7 @@ github的地址：https://github.com/ityw2012/xiaotaomall.git
 相关截图
 1. 后台截图
 
-
+![image](http://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%95%86%E5%9F%8E&step_word=&hs=0&pn=10&spn=0&di=90090&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3863676275%2C426595832&os=1257674886%2C442082935&simid=4160973137%2C644188925&adpicid=0&lpn=0&ln=1839&fr=&fmq=1591713523677_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fa4.att.hudong.com%2F31%2F64%2F01300542103469137515645688477.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fp7rtwg_z%26e3Bkwthj_z%26e3Bv54AzdH3Ftrw1AzdH3Fw9_n8_m9_a8naac9d8an9ml8n0c8cm9cmbb900_3r2_z%26e3Bip4s&gsm=d&rpstart=0&rpnum=0&islist=&querylist=&force=undefined)
 
 
 
