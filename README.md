@@ -25,7 +25,7 @@ github的地址：https://github.com/ityw2012/xiaotaomall.git
 相关截图
 1. 后台截图
 
-![image](https://github.com/ityw2012/schoolshop/blob/master/img/66.JPG)
+![image](http://ichatcat.com//b/20190110162604.jpg)
 
 
 
