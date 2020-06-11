@@ -1,6 +1,6 @@
 定制化商城
 商城定制化，联系
-QQ：451569675
+微信：451569675
 ![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
 一个基于spring boot、jpa、redis的轻量级,前端使用的模板引擎thymeleaf的商城项目，满足了毕业设计和课程设计以及生产的商城的需要。
 前言
