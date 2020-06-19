@@ -2,7 +2,7 @@
 商城定制化，联系
 微信：451569675
 ![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
-![image](http://ichatcat.com/school/wechat8.jpg)
+
 一个基于spring boot、jpa、redis的轻量级,前端使用的模板引擎thymeleaf的商城项目，满足了毕业设计和课程设计以及生产的商城的需要。
 前言
 后台管理系统：管理商品、订单、类目、商品规格属性、用户管理以及内容发布等功能。
@@ -11,7 +11,7 @@
 订单系统：提供下单、查询订单、修改订单状态、定时处理订单。
 搜索系统：提供商品的搜索功能。
 登录系统：为多个系统之间提供用户登录凭证以及查询登录用户的信息。
-
+![image](http://ichatcat.com/school/wechat8.jpg)
  2. 技术选型
 技术	版本	说明
 Spring Boot	1.5.11	MVC核心框架
