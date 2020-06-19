@@ -2,7 +2,7 @@
 商城定制化，联系
 微信：451569675
 ![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
-![image](http://ichatcat.com/school/school.jpg)
+![image](http://ichatcat.com/school/wechat8.jpg)
 一个基于spring boot、jpa、redis的轻量级,前端使用的模板引擎thymeleaf的商城项目，满足了毕业设计和课程设计以及生产的商城的需要。
 前言
 后台管理系统：管理商品、订单、类目、商品规格属性、用户管理以及内容发布等功能。
